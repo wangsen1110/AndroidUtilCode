@@ -1,7 +1,3 @@
-
-
-[![auc][aucSvg]][auc] [![result][apiSvg]][result] [![build][buildSvg]][build] [![License][licenseSvg]][license]
-
 ## [README of Chinese][readme-cn]
 
 ## About
@@ -30,10 +26,4 @@ If this project helps you a lot and you want to support the project's developmen
 ![donate][donate]
 
 
-## Contact
-
-[![Blog][blogSvg]][blog] [![jianshu][jianshuSvg]][jianshu] [![weibo][weiboSvg]][weibo] [![QQGroup][qqgroupSvg]][qqgroup]
-
-
-## [Change Log][changeLog.md]
 
